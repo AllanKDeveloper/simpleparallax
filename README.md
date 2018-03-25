@@ -1,2 +1,3 @@
 # simpleparallax
-Simple Parallax
+Simple Parallax Responsiveness
+Created by © Allan Kehl 2018
